@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cryptoflash2244.github.io/Transferable-Flash-USDT-BEP20-TRC20-ERC20-BTC/sitemap.xml
