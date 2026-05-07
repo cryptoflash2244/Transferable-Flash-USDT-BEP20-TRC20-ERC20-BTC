@@ -5,8 +5,8 @@
 ### Transferable Flash USDT is a powerful crypto transfer solution designed for fast and flexible transactions across multiple blockchain networks.It supports major tokens like USDT, BTC, USDC, DAI and works seamlessly with popular networks such as TRC20, ERC20, BEP20, and Fantom.Whether you are sending, receiving, or managing crypto assets, Flash USDT provides speed, compatibility, and convenience.
 
 ## 🔗 Join Our Community 
-# [https://t.me/FlashDevSamuel](https://t.me/FlashDevSamuel)
-# [https://wa.me/13438221882](https://wa.me/13438221882)
+# 📩 Telegram: https://t.me/FlashDevSamuel
+# 📩 WhatsApp: https://wa.me/13438221882
 
 ## 🌐 Supported Networks
 
